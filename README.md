@@ -1,2 +1,0 @@
-# kmitRep1
-TeachingLearning
